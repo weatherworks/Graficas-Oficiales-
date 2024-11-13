@@ -225,7 +225,7 @@
 
     <footer>
 <p></p>
-    </footer>        <p>amp;
+    </footer>        <p
 
 
 

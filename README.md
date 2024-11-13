@@ -225,9 +225,5 @@
 
     <footer>
 <p></p>
-    </footer>        <p
-
-
-
-
-</p></body></html>
+    </footer>       
+    </body></html>

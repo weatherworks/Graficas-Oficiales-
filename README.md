@@ -188,13 +188,13 @@
                 <iframe width="600" height="400" src="https://thingspeak.mathworks.com/channels/2699691/charts/3?bgcolor=%23ffffff&amp;color=%23d62020&amp;dynamic=true&amp;results=60&amp;type=line&amp;update=15" frameborder="0"></iframe>
             </div>
 
-            <!-- Tabla 4: Calidad del Aire -->
+            <!-- Tabla 4: Altitud -->
             <div class="table-container">
-                <h2>Calidad del Aire</h2>
+                <h2>Altitud</h2>
                 <table>
                     <thead>
                         <tr>
-                            <th>Calidad del Aire (AQI)</th>
+                            <th>Altitud (A)</th>
                         </tr>
                     </thead>
                     <tbody>
